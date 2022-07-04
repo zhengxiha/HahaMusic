@@ -4,10 +4,10 @@
 ==
 
 服务器：wampserver(php-7.3.1 apache-2.4.37 mysql-5.7.24)<br>
-编辑器：vscode
-后端框架：thinkphp5.1
-前端框架:vue+element-ui
-数据库：mysql
+编辑器：vscode<br>
+后端框架：thinkphp5.1<br>
+前端框架:vue+element-ui<br>
+数据库：mysql<br>
 
 运行
 ===
@@ -31,3 +31,6 @@ hh略为粗糙
 
 4、歌曲详情
 ![image](https://user-images.githubusercontent.com/76102674/177081813-1ebb390e-1f93-4fca-b719-6e8645f1ec7a.png)
+5、歌单详情
+![image](https://user-images.githubusercontent.com/76102674/177082716-73d7704d-dda6-4084-a7fa-e085b7cb93ea.png)
+
