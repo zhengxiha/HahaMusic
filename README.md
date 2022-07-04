@@ -3,7 +3,7 @@
 配置
 ==
 
-服务器：wampserver(php-7.3.1 apache-2.4.37 mysql-5.7.24)
+服务器：wampserver(php-7.3.1 apache-2.4.37 mysql-5.7.24)<br>
 编辑器：vscode
 后端框架：thinkphp5.1
 前端框架:vue+element-ui
@@ -11,7 +11,7 @@
 
 运行
 ===
-client路径下，输入npm run dev
+  client路径下，输入npm run dev
 
 项目简介
 ===
