@@ -1,7 +1,9 @@
-项目名称：hahamusic
-=====
-配置
-==
+## 项目名称：hahamusic
+## 前言 
+这是个前后端分离的项目，client文件夹放置前端文件，music-api放置后端文件
+功能:登陆注册、音乐播放、播放进度拖拽、歌词滚动、收藏夹等
+注：数据源为本地数据
+## 配置
 
 服务器：wampserver(php-7.3.1 apache-2.4.37 mysql-5.7.24)<br>
 编辑器：vscode<br>
@@ -9,20 +11,20 @@
 前端框架:vue+element-ui<br>
 数据库：mysql<br>
 
-运行
-===
+## 运行
+  
   client路径下，输入npm run dev
 
-项目简介
-===
-网页UI原型
-----
+## 项目简介
+
+### 网页UI原型
+
 
 ....粗糙了点<br>
 ![image](https://user-images.githubusercontent.com/76102674/177081540-b3b483d6-867a-4975-98d0-893e60dc8de9.png)<br>
 
-界面实现
----
+### 界面实现
+
 1、首页<br>
 ![image](https://user-images.githubusercontent.com/76102674/177081738-eed81729-fbe3-42ad-9dea-c7e1becba9d4.png)<br>
 2、歌单<br>
