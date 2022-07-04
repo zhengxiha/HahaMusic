@@ -1,0 +1,1 @@
+const BASE_URL = 'http://localhost:81/hahamusic/music-api/public'

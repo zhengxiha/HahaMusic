@@ -1,0 +1,151 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3180433 */
+  src: url('iconfont.woff2?t=1647760888854') format('woff2'),
+       url('iconfont.woff?t=1647760888854') format('woff'),
+       url('iconfont.ttf?t=1647760888854') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-guanbi:before {
+  content: "\e609";
+}
+
+.icon-xingxing:before {
+  content: "\e6cc";
+}
+
+.icon-fanhui:before {
+  content: "\e602";
+}
+
+.icon-weibiaoti--:before {
+  content: "\e60f";
+}
+
+.icon-xingxing1:before {
+  content: "\e870";
+}
+
+.icon-tianjia:before {
+  content: "\e622";
+}
+
+.icon-shoucang:before {
+  content: "\e86d";
+}
+
+.icon-shoucang1:before {
+  content: "\e62b";
+}
+
+.icon-dianzan:before {
+  content: "\ec7f";
+}
+
+.icon-aixin2:before {
+  content: "\e60e";
+}
+
+.icon-jingyin:before {
+  content: "\e601";
+}
+
+.icon-yinlemusic214:before {
+  content: "\e617";
+}
+
+.icon-xingbienv:before {
+  content: "\e605";
+}
+
+.icon-xingbienan:before {
+  content: "\e606";
+}
+
+.icon-xiazai:before {
+  content: "\e69a";
+}
+
+.icon-aixin:before {
+  content: "\e7fa";
+}
+
+.icon-vynil:before {
+  content: "\e61f";
+}
+
+.icon-yinliang:before {
+  content: "\eae4";
+}
+
+.icon-tuya-:before {
+  content: "\e758";
+}
+
+.icon-aixin1:before {
+  content: "\e85c";
+}
+
+.icon-sousuo:before {
+  content: "\e8b9";
+}
+
+.icon-zanting:before {
+  content: "\e600";
+}
+
+.icon-music:before {
+  content: "\e698";
+}
+
+.icon-bofang:before {
+  content: "\e624";
+}
+
+.icon-icon-:before {
+  content: "\e64d";
+}
+
+.icon-Music-Folder:before {
+  content: "\e7ce";
+}
+
+.icon-24gf-playlistMusic4:before {
+  content: "\ea86";
+}
+
+.icon-gedan:before {
+  content: "\e636";
+}
+
+.icon-1_music69:before {
+  content: "\e6a9";
+}
+
+.icon-1_music82:before {
+  content: "\e6aa";
+}
+
+.icon-1_music83:before {
+  content: "\e6ac";
+}
+
+.icon-Music:before {
+  content: "\e692";
+}
+
+.icon-songlist-01:before {
+  content: "\e703";
+}
+
+.icon-shangchuangedan:before {
+  content: "\e6ba";
+}
+
