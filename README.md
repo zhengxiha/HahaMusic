@@ -14,6 +14,7 @@
 ## 运行
   
   client路径下，输入npm run dev
+  运行完访问localhost:8080即可
 
 ## 项目简介
 
